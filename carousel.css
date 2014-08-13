@@ -79,6 +79,10 @@ body {
   margin-left: 10px;
 }
 
+.highlightPicture:hover{
+  opacity: 0.5;	
+}
+
 
 /* Featurettes
 ------------------------- */
